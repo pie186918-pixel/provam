@@ -5,7 +5,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Collections;
 import java.util.Set;
-import java.util.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 public final class RealisticWater extends JavaPlugin {
 
