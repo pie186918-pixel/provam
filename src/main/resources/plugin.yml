@@ -1,0 +1,6 @@
+name: RealisticWater
+version: 1.0
+main: com.example.realisticwater.RealisticWater
+api-version: '1.21'
+author: Pietro
+description: "Simulazione d'acqua dinamica e realistica senza sorgenti infinite per Paper 1.21.4."
